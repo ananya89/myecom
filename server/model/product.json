@@ -1,0 +1,13 @@
+{
+    "sku": "",
+    "name": "",
+    "image": "",
+    "category": "",
+    "price": {
+
+    },
+    "variation": [{
+        "size": "xs",
+        "color": ""
+    }]
+}
