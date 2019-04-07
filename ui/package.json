@@ -1,6 +1,5 @@
 {
   "scripts": {
-    "server": "node server/server.js",
     "webpack": "node_modules/.bin/webpack --mode development --module-bind js=babel-loader --watch",
     "start:dev": "webpack-dev-server --mode development --content-base src/ --module-bind js=babel-loader  --open --hot"
   },

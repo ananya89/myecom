@@ -2,7 +2,7 @@
 // $(document).ready(function(){
 //     $(body).append('<div>okl</div>')
 //     // $.get('/show', function(data){
-        
+
 //     //     $('body').append('<i>'+data+'from server</i>');
 //     // });
 // });
