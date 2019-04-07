@@ -30,7 +30,6 @@ app.get('/show', function (req, res, next){
     });
 });
 app.post('/insertaddress', function (req, res, next){
-
 })
 app.listen(3000, () => {
     console.log('Listening on port 3000');
