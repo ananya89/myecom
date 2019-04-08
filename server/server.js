@@ -20,7 +20,7 @@ function getFromDB(callbackFn){
 app.use(express.static(path.join(__dirname, '../'))); // Current directory is root
 // app.use(express.static(path.join(__dirname, 'public')));
 
-app.use('/login', require('./controller/login'));
+app.use('/api/login', require('./controller/login'));
 app.get('/show', function (req, res, next){
     console.log('req', req.query);
 

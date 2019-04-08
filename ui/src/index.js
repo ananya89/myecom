@@ -9,6 +9,7 @@
 
 import React, {Component} from 'react';
 import ReactDOM from 'react-dom';
+import App from './App';
 
-const App = () => (<div>hello react</div>)
-ReactDOM.render(<App /> , document.getElementById('root'));
+// const App = (abc) => (<div>hello react</div>)
+ReactDOM.render(<App/> , document.getElementById('root'));
